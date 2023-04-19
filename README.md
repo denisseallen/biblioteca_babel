@@ -5,7 +5,7 @@ El presente proyecto es un sitio web desarrollado para la "Biblioteca de Babel".
 ### Diagrama E-R
 En la *Figura 1* se muestra el diagrama entidad-relación que representa la base de datos desarrollada, donde:
 - **entidad UBICACION.** Representa a la tabla que guarda las coordenadas para ubicar a los volúmenes en la biblioteca. Esta información incluye la sala, el estante, el librero y la posición, así como el código que idenficia como única a cada ubicación.
-- **entidad VOLUMEN.** Representa a la tabla que guarda la información referenete a los volúmenes, como el título del volumen, número de vólumen y el código que identifica a cada volumen como único. Esta tabla se encuentra relacionada de uno a muchos con la tabla *UBUCACION*  ya que pueden existir diversos volumenes en una sola ubicación, pero no se puede localizar un volumen en diversas ubicaciones.
+- **entidad VOLUMEN.** Representa a la tabla que guarda la información referenete a los volúmenes, como el título del volumen, número de vólumen y el código que identifica a cada volumen como único. Esta tabla se encuentra relacionada de uno a muchos con la tabla *UBICACION*  ya que pueden existir diversos volumenes en una sola ubicación, pero no se puede localizar un volumen en diversas ubicaciones.
 
 > Figura 1. Diagrama ER
 ![Figura 1. Diagrama ER](https://bibliotecababel.000webhostapp.com/documentacion/diagrama_er.png "Figura 1. Diagrama ER")
