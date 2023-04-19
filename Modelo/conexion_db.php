@@ -13,7 +13,6 @@ class Conexion
         if(!$dbc){
             die('Error al conectar la base de datos');    
         }
-        
         return $dbc;
     }
 }
