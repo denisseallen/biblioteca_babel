@@ -3,7 +3,7 @@ El presente proyecto es un sitio web desarrollado para la "Biblioteca de Babel".
 
 ## Análisis
 ### Diagrama E-R
-![](https://drive.google.com/file/d/129Ea87YaMXMmnvcHBby5wnSYtTwG9yl0/view?usp=sharing)
+![](https://bibliotecababel.000webhostapp.com/documentacion/diagrama_er.png)
 
 
 ### Diagrama de casos de uso
