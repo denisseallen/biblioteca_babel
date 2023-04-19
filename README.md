@@ -17,5 +17,6 @@ Para acceder al sitio es necesario lo siguiente:
 
 ## Funcionamiento
 ### Administrar ubicaciones
-
+![](https://bibliotecababel.000webhostapp.com/documentacion/admin_ubicaciones.png)
 ### Administrar volúmenes
+![](https://bibliotecababel.000webhostapp.com/documentacion/admin_volumen.png)
